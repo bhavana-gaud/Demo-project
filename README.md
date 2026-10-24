@@ -1,4 +1,4 @@
 # Demo-project
 This is my first Git Repository.
 <br>
-Author - Bhavana Gaud
+Author - Bhavana Gaud (GLA University)
